@@ -1,0 +1,24 @@
+Database Notes: 
+	- The database shopDB is the database for the website Whimsy. 
+	- shopDB is located at Database_Schema/shopDB.sql, as an .sql file  
+	- shopDB is populated with records in each table to show the functionality of the database and later the website. 
+	- The database schema for shopDB is located at Database/shopDB_Schema_png (also as a jpg and pdf), and is an entity-relationship diagram showing the composition of the database's tables and the relationships between those tables. 
+		- Table relationships: 
+			- A one-to-one relationship is represented with double vertical lines on both ends of the connecting line. 
+			- A one-to-many relationship is represented with an arrow leading out from the table on the "many" side of the relationship, followed by a connection to the "one" side of the relationship, and vice versa. 
+
+	Querying the database:
+		- shopDB.sql should be ready to query as a file 
+
+	Editing the database contents: 
+		- There's definitely other ways to go about importing the database, but I've found this one works best for me without any issues 
+		- First I open up XAMPP, and start Apache and MySQL 
+		- I then go to localhost/phpMyAdmin 
+		- To the left there'll be a list of databases associated with your localhost server, and above it there'll be a link that says "New". Use "New" to create a new blank database, and this'll be where you can import the shopDB.sql file into. 
+		- Then, while still in the new database just created, locate the tab at the horizontal row at the top that says "Import". It'll ask you to choose a file, and you can choose the shopDB.sql file here. 
+		- At the bottom, click "Go" 
+		- Then the new database you just created should contain all the tables and records from shopDB.sql. 
+		- You can use phpMyAdmin to add new records, and there's also a database administration tool called HeidiSQL which you can use to view and edit the database.  
+
+
+
