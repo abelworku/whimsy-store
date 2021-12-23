@@ -1,0 +1,41 @@
+.homeCard {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 40px;
+    border-radius: 30px;
+    border: none;
+}
+
+.homeCardImage2 {
+    border-radius: 30px;
+    width: 100%;
+    height: 100%;
+    max-height: 450px;
+    object-fit: cover;
+}
+
+.homeCardImage1 {
+    border-radius: 30px;
+    width: 100%;
+    height: 65%;
+    max-height: 450px;
+    object-fit: cover;
+
+}
+
+.card-title, p { 
+    font-family: 'Lato', sans-serif; 
+
+}
+
+.card-title { 
+    font-size: 35px;
+}
+
+.card-text { 
+    font-size: 18px;
+}
+
+.card-link {
+    font-size: 20px
+}

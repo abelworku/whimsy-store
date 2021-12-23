@@ -1,0 +1,97 @@
+.slideshowCaption { 
+    background-color: #262626;
+    top: 15%;
+    bottom: auto;
+    left: 0%;
+    right: auto;
+    padding: 25px 80px;
+    
+}
+
+.carousel-caption h5 { 
+    font-family: 'Prata', serif; 
+    font-size: 30px;
+    margin-bottom: auto; 
+    color: whitesmoke;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    height: 50px;
+    border: none;
+    width: 50px;
+}
+
+.homeCard {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 40px;
+    border-radius: 30px;
+    border: none;
+}
+
+.homeCardImage2 {
+    border-radius: 30px;
+    width: 100%;
+    height: 100%;
+    max-height: 450px;
+    object-fit: cover;
+}
+
+.homeCardImage1 {
+    border-radius: 30px;
+    width: 100%;
+    height: 65%;
+    max-height: 450px;
+    object-fit: cover;
+
+}
+
+.homeMidJumbotron {
+    margin-top: 40px;
+    border-radius: 30px
+}
+
+.homeHorizontalRow {
+    overflow-x: auto;
+}
+
+.carouselImage {
+    border-radius: 30px;
+    object-fit: cover;
+    max-height: 45em;
+}
+
+.card-title, p { 
+    font-family: 'Lato', sans-serif; 
+
+}
+
+.card-title { 
+    font-size: 35px;
+}
+
+.card-text { 
+    font-size: 18px;
+}
+
+.card-link {
+    font-size: 20px
+}
+
+
+.homeShopCard {
+    transition: background-color 0.22s ease;
+/*    transition: transform .4s;*/
+/*    transform: translateZ(0);*/
+}
+
+.homeShopCard:hover {
+    
+/*    filter: brightness(97%); */
+/*    transform: scale(1.01); */
+    color: whitesmoke; 
+    background-color: #464a4e; 
+
+}
+
+

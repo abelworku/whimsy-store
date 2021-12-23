@@ -1,0 +1,45 @@
+.card-title, p { 
+    font-family: 'Lato', sans-serif; 
+
+}
+
+.card-title { 
+    font-size: 35px;
+}
+
+.card-text { 
+    font-size: 18px;
+}
+
+
+.mainShopContainer {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 25vw;
+/*    height: 25rem; */
+    object-fit: cover;
+}
+
+.shopCard { 
+    transition: transform .2s;
+    transform: translateZ(0);
+/*    backface-visibility: hidden;*/
+
+}
+
+.shopCard:hover {
+    filter: brightness(97%); 
+    transform: scale(1.01); 
+}
+
+#shopTitleLink {
+    color: inherit;
+}
+
+.card-img-top {
+    
+}

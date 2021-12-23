@@ -1,0 +1,42 @@
+.card-title, p { 
+    font-family: 'Lato', sans-serif; 
+
+}
+
+.card-title { 
+    font-size: 35px;
+}
+
+.card-text { 
+    font-size: 18px;
+}
+.card-img-top {
+
+}
+
+
+
+.mainCardImgTop {
+    width: 100%; 
+    height: 45vw; 
+    object-fit: cover; 
+    
+}
+
+.relatedCardImgTop { 
+    width: 100%; 
+    height: 18vw; 
+    object-fit: cover;
+}
+#shopTitleLink {
+    color: inherit;
+}
+
+.relatedProductCard {
+    transition: transform .2s;
+    transform: translateZ(0);
+}
+.relatedProductCard:hover { 
+    filter: brightness(97%); 
+    transform: scale(1.01);
+}
