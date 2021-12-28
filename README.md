@@ -50,6 +50,8 @@ The website was designed with ease of use in mind to allow the user to navigate 
 - Product Page: 
   - The user may view all related information for a product, and can add a product to special lists for later viewing, such as a wish list, and a cart. 
   - The user may also see more related products by shared category, tag, and their recently viewed products in the same page. 
+
+    
     ![1](/Demo/Product_Page/1.png)
     --- 
     ![2](/Demo/Product_Page/2.png)
@@ -64,7 +66,8 @@ The website was designed with ease of use in mind to allow the user to navigate 
     ---
     ![7](/Demo/Product_Page/7.png)
 - Wish List and Cart Page: 
-  - Displays added items to the wish list and cart to the user, how many items have been added, and options to delete particular items or all items altogether. The "Cart" page also displays a total cost of all the items as a potential order. 
+  - Displays added items to the wish list and cart to the user, how many items have been added, and options to delete particular items or all items altogether. The "Cart" page also displays a total cost of all the items as a potential order.
+    
     ![1](/Demo/Wish_List_Cart/1.png)
     ---
     ![2](/Demo/Wish_List_Cart/2.png)
@@ -74,5 +77,5 @@ The website was designed with ease of use in mind to allow the user to navigate 
     ![4](/Demo/Wish_List_Cart/4.png)
 - Account Page: 
   - The user can sign into the website with an existing account, or sign up with a new account. After signing in or signing up successfully, they are redirected back to the home page, with the website personalized to their username. 
-  ![1](/Demo/Account/1.png)
+    ![1](/Demo/Account/1.png)
 
