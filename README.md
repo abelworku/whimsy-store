@@ -7,7 +7,7 @@ Whimsy is an e-commerce store, developed using HTML, CSS, JavaScript, PHP, and S
 # Installation 
 
 - Download and install XAMPP, an open source software stack package (free to download). 
-- Open XAMPP, and press the "Start" buttons for the labels "Apache" and "MySQL" (this will allow the website to communicate with a local server via HTTP to perform server-side tasks) 
+- Run XAMPP as Administrator, and press the "Start" buttons for the labels "Apache" and "MySQL" (this will allow the website to communicate with a local server via HTTP to perform server-side tasks) 
 - Locate XAMPP's installation destination on your local device (it should appear as the folder "xampp" in your C:/ drive. Navigate to the folder "htdocs", and place a copy of the website's contents into the "htdocs" folder so that the application can be run on the local server provided by XAMPP)
 - The website can now be accessed via any browser, with the URL "http://localhost/whimsy/HTML/Home.php", which takes you to the home page of the website. 
 
