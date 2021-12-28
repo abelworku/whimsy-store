@@ -11,6 +11,9 @@ Whimsy is an e-commerce store, developed using HTML, CSS, JavaScript, PHP, and S
 - Locate XAMPP's installation destination on your local device (it should appear as the folder "xampp" in your C:/ drive. Navigate to the folder "htdocs", and place a copy of the website's contents into the "htdocs" folder so that the application can be run on the local server provided by XAMPP)
 - The website can now be accessed via any browser, with the URL "http://localhost/whimsy/HTML/Home.php", which takes you to the home page of the website. 
 
+- Database Notes: 
+  - The website's database, which stores information like products, user accounts, and ratings, is called shopdb.sql, and is located in the root level of the project's directory. In order for the website to access the database's contents on the local server (localhost), shopdb.sql can be loaded into the server by navigating to "http://localhost/phpmyadmin/", clicking the "New" button in the sidebar (to create a new database), going to the "SQL" tab in the new database, and copying the SQL contents in the shopdb.sql file into the text box, and clicking the "Go" button at the bottom.   
+
 # Usage 
 
 The website was designed with ease of use in mind to allow the user to navigate the website more efficiently. 
