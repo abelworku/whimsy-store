@@ -22,35 +22,55 @@ The website was designed with ease of use in mind to allow the user to navigate 
 - Home Page: 
   - The user may first arrive at the home page, and is greeted with an introduction about the website. While at the home page, they may find a row of cards linking to the Shop page to browse for certain categories of products. 
   ![1](/Demo/Home/1.png)
+  ---
   ![2](/Demo/Home/2.png)
+  ---
   ![3](/Demo/Home/3.png)
+  ---
   ![4](/Demo/Home/4.png)
+  ---
   ![5](/Demo/Home/5.png)
+  ---
   ![6](/Demo/Home/6.png)
 - Shop Page: 
   - The user may search through the store's catalogue of products with a combination of terms - category, price, and rating - identifying product information. The search can be customized with these terms, and pressing the "Search" button will perform the search and display relevant results below. 
   ![1](/Demo/Shop/1.png)
+  ---
   ![2](/Demo/Shop/2.png)
+  ---
   ![3](/Demo/Shop/3.png)
+  ---
   ![4](/Demo/Shop/4.png)
+  ---
   ![5](/Demo/Shop/5.png)
+  ---
   ![6](/Demo/Shop/6.png)
+  ---
   ![7](/Demo/Shop/7.png)
 - Product Page: 
   - The user may view all related information for a product, and can add a product to special lists for later viewing, such as a wish list, and a cart. 
   - The user may also see more related products by shared category, tag, and their recently viewed products in the same page. 
     ![1](/Demo/Product_Page/1.png)
+    --- 
     ![2](/Demo/Product_Page/2.png)
+    --- 
     ![3](/Demo/Product_Page/3.png)
+    ---
     ![4](/Demo/Product_Page/4.png)
+    ---
     ![5](/Demo/Product_Page/5.png)
+    ---
     ![6](/Demo/Product_Page/6.png)
+    ---
     ![7](/Demo/Product_Page/7.png)
 - Wish List and Cart Page: 
   - Displays added items to the wish list and cart to the user, how many items have been added, and options to delete particular items or all items altogether. The "Cart" page also displays a total cost of all the items as a potential order. 
     ![1](/Demo/Wish_List_Cart/1.png)
+    ---
     ![2](/Demo/Wish_List_Cart/2.png)
+    ---
     ![3](/Demo/Wish_List_Cart/3.png)
+    ---
     ![4](/Demo/Wish_List_Cart/4.png)
 - Account Page: 
   - The user can sign into the website with an existing account, or sign up with a new account. After signing in or signing up successfully, they are redirected back to the home page, with the website personalized to their username. 
