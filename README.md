@@ -2,7 +2,7 @@
  -->
 # Whimsy 
 
-Whimsy is an e-commerce store, developed using HTML, CSS, JavaScript, PHP, and SQL, where users can engage in a whimsical shopping experience as they browse merchandise. 
+Whimsy is an e-commerce store, developed using Bootstrap 4, HTML, CSS, JavaScript, PHP, and SQL, where users can engage in a whimsical shopping experience as they browse merchandise. 
 
 # Installation 
 
