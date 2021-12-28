@@ -21,6 +21,7 @@ The website was designed with ease of use in mind to allow the user to navigate 
 
 - Home Page: 
   - The user may first arrive at the home page, and is greeted with an introduction about the website. While at the home page, they may find a row of cards linking to the Shop page to browse for certain categories of products. 
+  ![1](/Demo/Home/1.png)
 - Shop Page: 
   - The user may search through the store's catalogue of products with a combination of terms - category, price, and rating - identifying product information. The search can be customized with these terms, and pressing the "Search" button will perform the search and display relevant results below. 
 - Product Page: 
